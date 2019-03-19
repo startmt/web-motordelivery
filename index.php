@@ -115,7 +115,7 @@
               </div>
             </div>
             <div class="text-right">
-            <button type="button"  class="btn " style="border: 2px solid #ff9f2a; color :#ff9f2a!important;">ดูทั้งหมด</button>
+            <a href = "/work" ><button type="button"  class="btn " style="border: 2px solid #ff9f2a; color :#ff9f2a!important;">ดูทั้งหมด</button></a>
      </div>
           </div>
           <?php

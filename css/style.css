@@ -175,16 +175,16 @@ body{
     overflow: hidden;
     position: relative;
 }
-@media (min-width: 768px){
-    .blogspace{
-        margin-bottom: 15px !important;
-        padding-left: 0px !important;
-    }   
-}
-@media (min-width: 1px){
+@media (max-width: 1200px){
     .blogspace{
         margin-bottom: 15px !important;
         padding-left: 15px !important;
+    }   
+}
+@media (max-width: 768px){
+    .blogspace{
+        margin-bottom: 15px !important;
+        padding-left: 0px !important;
     }   
 }
 div .imagepost{
