@@ -1,0 +1,33 @@
+/*
+Theme Name: Telecomkmitl
+Author: Chansin
+Version: 1.0
+*/
+
+article {
+    width: calc(25% - 37.5px);
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+figure, img, picture {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: none;
+    margin: 0;
+}
+body {
+  font-family: "Noto Sans Thai UI","Sukhumvit Set","Leelawadee","Nimbus Sans L",sans-serif;
+  font-weight: 300; }
+ @font-face {
+  font-family: "Noto Sans Thai UI";
+  src: url("notosanthai/notosansthai-regular-webfont.eot");
+  src: url("font/notosanthai/notosansthai-regular-webfont.eot?#iefix") format('embedded-opentype'),
+  url("font/notosanthai/notosansthai-regular-webfont.woff2") format('woff2'),
+  url("font/notosanthai/notosansthai-regular-webfont.woff") format('woff'),
+  url("font/notosanthai/notosansthai-regular-webfont.ttf") format('truetype'),
+  url("font/notosanthai/notosansthai-regular-webfont.svg#noto_sans_thairegular") format('svg');
+  font-weight: normal;
+  font-style: normal;
+  }
